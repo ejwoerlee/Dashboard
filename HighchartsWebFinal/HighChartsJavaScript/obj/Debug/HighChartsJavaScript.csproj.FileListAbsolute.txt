@@ -1,0 +1,7 @@
+D:\Projects\Test\Dashboard\HighchartsWebFinal\HighChartsJavaScript\bin\HighChartsJavaScript.dll.config
+D:\Projects\Test\Dashboard\HighchartsWebFinal\HighChartsJavaScript\bin\HighChartsJavaScript.dll
+D:\Projects\Test\Dashboard\HighchartsWebFinal\HighChartsJavaScript\bin\HighChartsJavaScript.pdb
+D:\Projects\Test\Dashboard\HighchartsWebFinal\HighChartsJavaScript\obj\Debug\HighChartsJavaScript.csprojAssemblyReference.cache
+D:\Projects\Test\Dashboard\HighchartsWebFinal\HighChartsJavaScript\obj\Debug\HighChartsJavaScript.csproj.CoreCompileInputs.cache
+D:\Projects\Test\Dashboard\HighchartsWebFinal\HighChartsJavaScript\obj\Debug\HighChartsJavaScript.dll
+D:\Projects\Test\Dashboard\HighchartsWebFinal\HighChartsJavaScript\obj\Debug\HighChartsJavaScript.pdb
