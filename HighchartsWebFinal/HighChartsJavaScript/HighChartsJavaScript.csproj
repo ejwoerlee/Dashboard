@@ -19,6 +19,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -64,17 +66,9 @@
     <Content Include="5.html" />
     <Content Include="6.html" />
     <Content Include="6.aspx" />
-    <Content Include="imgs\abtus1.png" />
-    <Content Include="imgs\abtus2.png" />
-    <Content Include="imgs\abtus3.png" />
+    <Content Include="Dashboard.html" />
+    <Content Include="Dashboard2.html" />
     <Content Include="imgs\backbtn.png" />
-    <Content Include="imgs\map.png" />
-    <Content Include="imgs\prod1.png" />
-    <Content Include="imgs\prod2.png" />
-    <Content Include="imgs\prod3.png" />
-    <Content Include="imgs\prod4.png" />
-    <Content Include="imgs\prod5.png" />
-    <Content Include="imgs\prod6.png" />
     <Content Include="index.html" />
     <Content Include="js\exporting.js" />
     <Content Include="js\highcharts.js" />
